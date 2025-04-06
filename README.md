@@ -20,7 +20,7 @@ alt="follow on Twitter"></a>
 If you like this project and want to support its development, please consider making a donation. Your contributions will help us continue to improve and maintain the project.
 
 <p align="center">
-  <a href="https://buy.stripe.com/8wM8yo8tE9EjaeQdQV">
+  <a href="https://donate.stripe.com/8wM8yo8tE9EjaeQdQV">
     <img src="https://img.shields.io/badge/Donate-Stripe-blue?style=for-the-badge&logo=stripe" alt="Donate with Stripe" />
   </a>
 </p>
